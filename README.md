@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     <a href="https://youtube.com/@sacolinhaofc?si=LjiSfuTGRwOJJDFz">
     <img src="https://img.shields.io/badge/Sacolinha-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-    <a href="https://youtube.com/@sacolinhaofc?si=LjiSfuTGRwOJJDFz">
+    <a href="https://youtube.com/@streetfilmsofc?si=UFbavPGdR3PGLT4X">
     <img src="https://img.shields.io/badge/Street Films-5500FF?style=for-the-badge&logo=youtube&logoColor=white">
     </a></br>
     <a href="https://www.instagram.com/sacolinhaofc/">
