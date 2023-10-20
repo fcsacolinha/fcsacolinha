@@ -1,5 +1,11 @@
-[![Sacolinha](https://github-readme-stats.vercel.app/api?username=fcsacolinha&show_icons=true&theme=dracula)]
 
+<p align="right"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador"></p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=fcsacolinha&show_icons=true&theme=dracula&count_private=true&border_radius=10&custom_title=Sacolinha">
+</p>
+
+- 👨‍💻 **Back-end**
+- 👨‍🎓 **Sistemas de Informação** - *5/8*
 
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
