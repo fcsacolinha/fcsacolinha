@@ -24,7 +24,7 @@
 
 
 <p align="center">
-    <a href="https://discord.gg/Wead9ATxUp">
+    <a href="https://discord.com/users/959520217195741224">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     <a href="https://youtube.com/@sacolinhaofc?si=LjiSfuTGRwOJJDFz">
     <img src="https://img.shields.io/badge/Sacolinha-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
