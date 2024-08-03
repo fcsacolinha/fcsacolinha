@@ -5,7 +5,7 @@
 </p>
 
 - 👨‍💻 **Back-end**
-- 👨‍🎓 **Sistemas de Informação** - *5/8*
+- 👨‍💻 **Front-end**
 
 <img align="left" alt="Lua" width="30px" src="https://github.com/github/explore/blob/main/topics/lua/lua.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
