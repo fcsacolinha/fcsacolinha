@@ -13,8 +13,6 @@
 
   <h3 style="font-family: 'Fira Code', monospace; color: #63A4FF;">🇧🇷 Brazilian Full Stack Developer 🌎</h3>
 
-  <br>
-
   <h2 style="font-family: 'Fira Code', monospace; color: #63A4FF;">📈 My Statistics</h2>
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fcsacolinha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
@@ -35,8 +33,6 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
   </div>
-
-  <br>
 
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
